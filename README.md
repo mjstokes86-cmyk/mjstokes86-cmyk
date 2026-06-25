@@ -1,4 +1,4 @@
-# Hi, I'm Michael
+# Hi, I'm Mike
 
 I'm starting to build and share small practical projects around home automation, scripting, and connected devices.
 
