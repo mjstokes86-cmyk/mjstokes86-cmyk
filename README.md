@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm Michael
 
-<!--
-**mjstokes86-cmyk/mjstokes86-cmyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm starting to build and share small practical projects around home automation, scripting, and connected devices.
 
-Here are some ideas to get you started:
+## What I'm Working On
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Shelly device scripting
+- RGBW lighting automation
+- Simple JavaScript projects
+- Learning GitHub and open-source project structure
+
+## Featured Project
+
+### Shelly RGBW Color Transition Loop
+
+A smooth HSB-to-RGB color transition script for Shelly RGBW devices.
+
+- Repository: [Shelly_RGBW_color_transition_loop](https://github.com/mjstokes86-cmyk/Shelly_RGBW_color_transition_loop)
+- Built with: Shelly Script API and JavaScript
+- Purpose: Create a slow, smooth RGB color loop for connected LED lighting
+
+## Interests
+
+- Home automation
+- Smart lighting
+- Practical scripting
+- IoT devices
+- Building useful tools one step at a time
+
+## GitHub Goals
+
+- Keep projects simple and well documented
+- Share scripts that other people can actually use
+- Learn by building real things
+- Improve each project as I go
+
+---
+
+Thanks for stopping by.
